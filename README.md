@@ -1,8 +1,5 @@
 # System-Monitor
-Parfait ✅ je vais te générer un **README.md** clair et bien structuré pour ton projet **System Monitor**.
-Voici une première version :
 
-````markdown
 # 🖥️ System Monitor
 
 System Monitor is a lightweight web application built with **Python (Flask)** and **HTML** that lets you **view your PC’s key system information in real time**.
